@@ -16,3 +16,8 @@ echo "deb [signed-by=/etc/apt/trusted.gpg.d/avairis_ppa.gpg] https://avairis.git
 apt-get update
 ```
 
+Once you've done that, you can install packages from the Avairis PPA
+
+```
+apt-get install avairis-ca-certificate
+```
