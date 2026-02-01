@@ -1,0 +1,17 @@
+Package: avairis-ca-certificate
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Avairis, Inc. <certs@avairis.com>
+Installed-Size: 15
+Depends: ca-certificates
+Filename: ./avairis-ca-certificate_1.0.0-1_all.deb
+Size: 2408
+MD5sum: 7ee539c385cdf98aab3c763f627e8677
+SHA1: 9085d787a1ffb41bb8c825d9445f10a219ff7de2
+SHA256: c3cf32816fd6d6c1c5b06a9266fcf194f9c64bccace15590f8ef48cb38e71eed
+Section: misc
+Priority: optional
+Description: Avairis, Inc. Root CA certificate
+ Installs the Avairis, Inc. Root Certificate Authority
+ certificate into the system CA store.
+
